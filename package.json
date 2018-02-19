@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate",
+  "name": "expensify",
   "version": "1.0.0",
   "main": "app.js",
   "repository": "git@github.com:BirdpersonC137/React-Boilerpate.git",
@@ -25,6 +25,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-modal": "^3.2.1",
+    "react-router-dom": "^4.2.2",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.20.2",
     "validator": "^9.4.0",
